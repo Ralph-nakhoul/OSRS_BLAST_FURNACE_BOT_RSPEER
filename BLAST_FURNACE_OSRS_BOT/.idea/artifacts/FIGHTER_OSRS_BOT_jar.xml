@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="FIGHTER_OSRS_BOT:jar">
+    <output-path>$USER_HOME$/Documents/RSPeer/scripts</output-path>
+    <root id="archive" name="FIGHTER_OSRS_BOT.jar">
+      <element id="module-output" name="BLAST_FURNACE_OSRS_BOT" />
+    </root>
+  </artifact>
+</component>

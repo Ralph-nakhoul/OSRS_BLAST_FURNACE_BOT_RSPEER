@@ -1,0 +1,1 @@
+Simple blast furnace bot
